@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Mine/Craft
 - ⚡ Fun fact: ...
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=crisper2001&theme=vue-dark
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisper2001&theme=vue-dark)
