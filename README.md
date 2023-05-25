@@ -1,1 +1,2 @@
-# Memento mori.
+# Memento mori
+Memento mori.
